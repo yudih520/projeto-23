@@ -1,0 +1,4 @@
+ls = pra saber onde esta 
+cd = ir para as pastas 
+gcc(nome do programa que quer rodar) -o (pasta) -lm
+./(pasta) 
